@@ -3,3 +3,4 @@
 - Slack: https://vuecuritiba.slack.com/
 - E-mail: vuecuritiba@gmail.com
 - Meetup: https://www.meetup.com/Vue-Curitiba/
+- Telegram: https://t.me/joinchat/HNiU8xLKeNdpvsZdf0LMcg
